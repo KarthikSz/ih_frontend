@@ -1,3 +1,4 @@
+import './signup_component.css'
 import React, { Component } from "react";
 
 export default class SignUp extends Component {
