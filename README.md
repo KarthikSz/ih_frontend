@@ -1,2 +1,2 @@
 # ih_frontend
-Login page developed using React Bootstrap
+Login and Sign-Up pages developed using React Bootstrap
